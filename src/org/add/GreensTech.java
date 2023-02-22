@@ -19,6 +19,7 @@ public class GreensTech {
 		}
 		private void greensAnnaNagar() {
 			System.out.println("Green technology is located in Annanagar");
+			System.out.println("Main branch is OMR-Thorapakkam");
 		}
 
 		public static void main(String[]args) {
